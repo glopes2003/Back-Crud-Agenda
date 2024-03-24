@@ -21,19 +21,7 @@
 </div>
 <br>
 
-><h3>Funcionalidades:</h3>
-<h2>Adicionar:</h2>
-<a href="https://imgur.com/7mQH17F"><img src="https://i.imgur.com/7mQH17F.gif" title="source: imgur.com" width="400px" height="250px" /></a>
-<br/>
-<h2>Editar:</h2>
-<a href="https://imgur.com/7mQH17F"><img src="https://i.imgur.com/7mQH17F.gif" title="source: imgur.com" width="400px" height="250px" /></a>
-<br/>
-<h2>Deletar:</h2>
-<a href="https://imgur.com/7mQH17F"><img src="https://i.imgur.com/7mQH17F.gif" title="source: imgur.com" width="400px" height="250px" /></a>
-<br/>
-<br/>
-
-><h3> Artefatos de Designer (proposta): </h3>
+><h3> Artefatos de Designer: </h3>
 
    Aplicação CRUD
 
@@ -47,7 +35,12 @@
     1. Model: Interação com o Banco de dados
     2. View: Interface do usuário
     3. Controller: Fluxo de solicitações (conexão entre o model e o view)
+    
+><h3>Funcionalidades (CRUD):</h3>
+<h4>Adicionar:</h4>
+<img src="https://i.imgur.com/Nq6Enuf.gif" title="source: imgur.com" width="600px" height="300px" />
+<h4>Editar:</h4>
+<img src="https://i.imgur.com/nseZlZT.gif" title="source: imgur.com" width="600px" height="300px"/>
+<h4>Deletar:</h4>
+<img src="https://i.imgur.com/gbzysbX.gif" title="source: imgur.com" width="600px" height="300px"/>
 
-><h3> Como rodar a aplicação: </h3>
-
-- Através do deploy na Vercel: https://ong-connect-deploy.vercel.app/
